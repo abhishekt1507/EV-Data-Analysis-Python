@@ -1,5 +1,5 @@
 📊 Electric Vehicle Data Analysis — Python Project
-📝 Overview
+
 
 This project analyzes 53 Electric Vehicles to understand battery performance, WLTP range, efficiency, consumption trends, and brand-level differences.
 The full analysis is performed in a Jupyter Notebook, supported by visualizations and a recommendation system.
