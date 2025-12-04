@@ -53,17 +53,16 @@ SciPy (statistical tests)
 OOP (Recommendation Class)
 
 📂 Project Structure
-'''
+```plaintext
 EV-Data-Analysis/
 │
 ├── Documentation/
-│   └── EV_project_pdf.pdf                
+│   └── EV_project_pdf.pdf
 │
 ├── Notebook/
-│   └── EV_project.ipynb                  
+│   └── EV_project.ipynb
 │
 └── README.md
-'''
 🔬 Methods
 
 Data cleaning and imputation
