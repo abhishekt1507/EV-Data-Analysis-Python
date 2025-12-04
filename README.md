@@ -74,7 +74,7 @@ Outlier detection using IQR
 
 Scatter plots, box plots, histogram distributions
 
-Tesla vs Audi hypothesis testing (t-test & non-parametric test)
+Tesla vs Audi hypothesis testing (t-test)
 
 Custom OOP EV recommendation engine
 
