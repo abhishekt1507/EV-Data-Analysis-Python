@@ -146,6 +146,7 @@ Enhance range efficiency by improving aerodynamics and drivetrain optimization.
    pip install pandas numpy matplotlib seaborn scipy
 3. Open the notebook
    jupyter notebook Notebook/EV_project.ipynb
+
 👤 Author & Contact
 
 Name: Abhishek Tandle
